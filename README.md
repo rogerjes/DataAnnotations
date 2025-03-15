@@ -7,7 +7,7 @@ In .NET, **data annotations** provide a simple and effective way to enforce vali
 - .NET 8  
 - ASP.NET Core MVC  
 - Visual Studio 2022  
-  
+
 ## Getting Started
 To get this project up and running, follow these steps:
 
@@ -17,9 +17,12 @@ git clone https://github.com/rogerjes/DataAnnotations
 cd DataAnnotations
 ```
 
-2. Open the solution in Visual Studio 2022.
+2. Open the solution in Visual Studio 2022. You can get a free copy of Visual Studio to learn on at https://visualstudio.microsoft.com/vs/community/
 
 3. Run the application to see the form validation in action.
-  
+
+## Application Screenshot
+![Screenshot of the application](DataAnnotationsExample/DataAnnotationsExample/Images/AppRunningScreenshot.png)
+
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
