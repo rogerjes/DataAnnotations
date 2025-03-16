@@ -46,7 +46,7 @@ cd DataAnnotations
 <br>
 
 ## Contributing to this project
-This repository is intended to be a skills development project and is read-only. 
+This repository is intended to be a skills development project and is read-only. Your ideas and suggestions are welcome at [Discussions](https://github.com/rogerjes/DataAnnotations/discussions/1)
 
 <br>
 
