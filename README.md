@@ -3,6 +3,9 @@ Form validation is a crucial aspect of any application that collects user input.
 
 In .NET, **data annotations** provide a simple and effective way to enforce validation rules on model class properties. This repository demonstrates how to use data annotations for form validation in an **ASP.NET Core MVC** application.  
 
+## Application Screenshot
+![Screenshot of the application](DataAnnotationsExample/DataAnnotationsExample/Images/AppRunningScreenshot.png)
+
 ## **Technologies Used**  
 - .NET 8  
 - ASP.NET Core MVC  
@@ -10,6 +13,19 @@ In .NET, **data annotations** provide a simple and effective way to enforce vali
 
 ## Getting Started
 To get this project up and running, follow these steps:
+
+### Prerequistes
+
+- .NET SDK version 8 or higher should be installed. If you don't have it, you can download from https://dotnet.microsoft.com/en-us/download.
+- Visual Studio 2022 (or later) is recommended. You can download the free Community version at https://visualstudio.microsoft.com/vs/community/.
+
+If you have Visual Studio 2022, the .NET SDK is likely be installed. You can verify you have the correct version by running the following in a command prompt:
+
+```
+dotnet --version
+```
+
+### Installation
 
 1. Clone the repository:
 ```
@@ -21,8 +37,9 @@ cd DataAnnotations
 
 3. Run the application to see the form validation in action.
 
-## Application Screenshot
-![Screenshot of the application](DataAnnotationsExample/DataAnnotationsExample/Images/AppRunningScreenshot.png)
+
+## Contributing to this project
+This repository is intended as a personal skills development project and is currently read-only. 
 
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
